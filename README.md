@@ -146,3 +146,13 @@ flowchart TD
 > **Teaching a model via reward is like training an athlete: you don't cheer after every step — you reward them when they score a goal.**
 
 Reward-based fine-tuning **helps LLMs plan**, **achieve goals**, and **deliver reliable outputs**. 🚀
+
+## 👤 Author
+
+For any questions or issues, please open an issue on GitHub: [@Siddharth Mishra](https://github.com/Sid3503)
+
+---
+
+<p align="center">
+  Made with ❤️ and lots of ☕
+</p>
